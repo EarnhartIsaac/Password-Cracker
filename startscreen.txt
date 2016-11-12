@@ -1,0 +1,23 @@
+----------------------------
+	BARBARIAN
+Brute Force Password Cracker
+Author: Isaac Earnhart
+Course: CS111 Intro to CS 1
+SECTION: MTh 1:00pm-5:20pm
+LAST MODIFIED: 8/3/2016
+
+          ////\
+        ///_ _\\\
+        // '\' \\
+       ///\_-_/\\\
+          _) (_
+         /\`"` \
+        /| \ '  \
+       / |  '--; \
+      / /|     |\ \  ____
+     (.' |_____| '.;'    '.
+     \\   \ | /   /        \
+     )'\  ( | )   |   ()   |
+     |. | / T \   \        /
+     \_/ ooO Ooo   '.____.
+----------------------------
